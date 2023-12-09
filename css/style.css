@@ -63,9 +63,6 @@ body{
     animation-delay: 2.2s ;
 }
 .greetings > span:nth-child(13){
-    animation-delay: 2.4s ;
-}
-.greetings > span:nth-child(14){
     animation-delay: 2.6s ;
 }
 
